@@ -1,0 +1,13 @@
+C:\Users\servinet\Downloads\programacion\cchar\sistemaHotel\bin\Debug\sistemaHotel.exe.config
+C:\Users\servinet\Downloads\programacion\cchar\sistemaHotel\bin\Debug\sistemaHotel.exe
+C:\Users\servinet\Downloads\programacion\cchar\sistemaHotel\bin\Debug\sistemaHotel.pdb
+C:\Users\servinet\Downloads\programacion\cchar\sistemaHotel\obj\Debug\sistemaHotel.csprojResolveAssemblyReference.cache
+C:\Users\servinet\Downloads\programacion\cchar\sistemaHotel\obj\Debug\sistemaHotel.Form1.resources
+C:\Users\servinet\Downloads\programacion\cchar\sistemaHotel\obj\Debug\sistemaHotel.Properties.Resources.resources
+C:\Users\servinet\Downloads\programacion\cchar\sistemaHotel\obj\Debug\sistemaHotel.csproj.GenerateResource.Cache
+C:\Users\servinet\Downloads\programacion\cchar\sistemaHotel\obj\Debug\sistemaHotel.exe
+C:\Users\servinet\Downloads\programacion\cchar\sistemaHotel\obj\Debug\sistemaHotel.pdb
+C:\Users\servinet\Downloads\programacion\cchar\sistemaHotel\obj\Debug\sistemaHotel.reserva.resources
+C:\Users\servinet\Downloads\sistemaHotel\bin\Debug\sistemaHotel.exe.config
+C:\Users\servinet\Downloads\sistemaHotel\obj\Debug\sistemaHotel.exe
+C:\Users\servinet\Downloads\sistemaHotel\obj\Debug\sistemaHotel.pdb
